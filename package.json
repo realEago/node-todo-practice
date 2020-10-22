@@ -6,8 +6,9 @@
   "files": [
     "*.js"
   ],
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
+  "repository": "https://github.com/realEago/node-todo-practice",
   "license": "MIT",
   "dependencies": {
     "commander": "^6.1.0",
